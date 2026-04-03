@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "エンドレス・スヌーズ / 可不",
+  "base_artist": "夏山よつぎ",
+  "createdAt": "2026-04-03T07:55:30.573693Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エンドレス・スヌーズ",
+      "artist": "夏山よつぎ",
+      "has_synced": false,
+      "path": "select/pl_01_エンドレス・スヌーズ_夏山よつぎ.txt"
+    }
+  ]
+}
